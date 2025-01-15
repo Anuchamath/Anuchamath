@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Anuchamathl</h1>
+<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
+
+- 🔭 I’m currently working on: **My side projects**
+
+- 🌱 I’m currently learning: **Everything**
+
+- 👯 I’m looking to collaborate on: **Interesting open source projects**
+
+- 📫 How to reach me: **Drop me an email at anuchamath24@gmail.com**
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img align='right'  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"< width="220" alt="giphy">
 
