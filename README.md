@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anuchamathl</h1>
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
+<h1 align="center">Hi 👋, I'm Anuchamath</h1>
+<p align="left"> 
 
 - 🔭 I’m currently working on: **My side projects**
 
