@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuchamath</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Anuchamath">
 <p align="left"> 
 
 - 🔭 I’m currently working on: **My side projects**
