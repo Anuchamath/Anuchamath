@@ -12,7 +12,7 @@
 - 📫 How to reach me: **Drop me an email at anuchamath24@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img align='right'  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"< width="220" alt="giphy">
+
 
 
 ###
