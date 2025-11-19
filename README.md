@@ -2,15 +2,7 @@
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433
 &height=75&lines=I'm+Anuchamath">
-<p align="left"> 
-
-- 🔭 I’m currently working on: **My side projects**
-
-- 🌱 I’m currently learning: **Everything**
-
-- 👯 I’m looking to collaborate on: **Interesting open source projects**
-
-- 📫 How to reach me: **Drop me an email at anuchamath24@gmail.com**
+<p align="left">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
