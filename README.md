@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Anuchamath&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Visual%20Storyteller%20%26%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Anuchamath&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Visual%20Storyteller%20%26%20Developer&descAlignY=60&descSize=20" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;Capturing+Moments+Through+Lens;Designing+The+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Capturing+Moments+Through+Lens;Designing+The+Future" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,14 +30,8 @@
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuchamath&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF&text_color=999&icon_color=3399FF" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=transparent&hide_border=true&title_color=3399FF&text_color=999&icon_color=3399FF" height="150" alt="languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuchamath&theme=dracula" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuchamath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
 </div>
 
 <br />
