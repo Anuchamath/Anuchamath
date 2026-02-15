@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-  <a href="https://instagram.com/cr0wne6anu" target="_blank">
+  <a href="https://instagram.com/anuchamathh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="http://anuchamath-sathsara.camdvr.org" target="_blank">
