@@ -19,8 +19,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuchamath&" alt="anuchamath" />
 </p>
+<br />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuchamath&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
-</p>
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuchamath&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+</div>
+
+<br />
