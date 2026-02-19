@@ -16,17 +16,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anuchamathh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anuchamathh" /></a></p><br><br>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuchamath&" alt="anuchamath" />
-</p>
-<br />
-
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuchamath&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+  
 </div>
 
 <br />
