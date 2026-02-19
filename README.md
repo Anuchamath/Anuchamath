@@ -18,7 +18,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuchamath&" alt="anuchamath" />
-align="left">
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuchamath&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuchamath&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
 </p>
